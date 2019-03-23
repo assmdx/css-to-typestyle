@@ -23,5 +23,5 @@ convertCss('.redClass{ color: red }')
 
 ## Use it online
 
-[Css-to-Typestyle](http://139.199.113.19:8000/)
+[Css-to-Typestyle](https://assmdx.github.io/cssToTypestyle/)
 
